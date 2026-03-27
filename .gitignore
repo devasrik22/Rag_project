@@ -1,5 +1,14 @@
+<<<<<<< HEAD
+.states
+*.py[cod]
+__pycache__/
+.web
+assets/external/
+*.db
+=======
 venv/
 chroma_db/
 .env
 __pycache__/
 *.pyc
+>>>>>>> 4c15cca710ef7ef6d4cfa6170979e4ee51ff134d
